@@ -8,6 +8,9 @@ This app supports **both Machine Learning and Deep Learning models** for sentime
 ## 🚀 Live Demo  
 🔗 [Live App on Streamlit](https://sentimentanalysismodel07.streamlit.app/)
 
+## 🚀 Video Demo  
+[https://github.com/user-attachments/assets/ef3e2fb8-c473-48d7-80c2-a54296de152c](https://github.com/user-attachments/assets/ef3e2fb8-c473-48d7-80c2-a54296de152c)
+
 ---
 
 ## 📌 Features  
